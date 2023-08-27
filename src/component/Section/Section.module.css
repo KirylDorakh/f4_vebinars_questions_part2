@@ -1,0 +1,17 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section div{
+    display: flex;
+    gap: 10px;
+}
+
+.section button{
+    width: 20px;
+    height: 20px;
+
+}
